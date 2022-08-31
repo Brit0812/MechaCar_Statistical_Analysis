@@ -4,7 +4,7 @@
 
 ![](images/lin_reg_sum.png)
 
-•	A linear regression model helps one understand the data and assists in the providing an explanation of its relationship. In this instance the linear regression model helps predict the MPG of MechaCars future cars by analyzing other cars: length, weight, spoiler angle, ground clearance and AWD. These would be considering the independent variables, as they are NOT reliant on other factors, within the data set. 
+A linear regression model helps one understand the data and assists in the providing an explanation of its relationship. In this instance the linear regression model helps predict the MPG of MechaCars future cars by analyzing other cars: length, weight, spoiler angle, ground clearance and AWD. These would be considering the independent variables, as they are NOT reliant on other factors, within the data set. 
 
 •	The variables that provided a non-random amount of variance on MPG was vehicle length and ground clearance. These two variables are significantly smaller than that of the other variables (under Pr(>ltl). These skewed variables have heavily impacted the intercept. 
 
